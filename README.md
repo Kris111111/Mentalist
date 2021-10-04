@@ -1,1 +1,2 @@
 # Mentalist
+## Project's artifacts
